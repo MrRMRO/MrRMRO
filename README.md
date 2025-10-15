@@ -9,6 +9,7 @@
 
 ### 🌱 I’m currently learning
 - Dart For App Development
+- Kotlin For Android Development
 - Cyber Security
 - Java Web Development
 

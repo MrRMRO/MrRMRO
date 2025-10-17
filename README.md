@@ -38,18 +38,18 @@ B.Sc.(Hons) in Software Engineering — Birmingham City University
 
 ### 🏆 GitHub Profile Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RavinduOshan&theme=onedark&row=1&column=7" alt="RavinduOshan" />
+  <img src="https://github-profile-trophy.vercel.app/?username=MrRMRO&theme=onedark&row=1&column=7" alt="MrRMRO" />
 </p>
 
 ---
 
 ### 💻 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RavinduOshan&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MrRMRO&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RavinduOshan&theme=tokyonight" alt="streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrRMRO&theme=tokyonight" alt="streak" />
 </p>
 
 ---

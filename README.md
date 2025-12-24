@@ -30,7 +30,7 @@ B.Sc.(Hons) in Software Engineering — Birmingham City University
 ### 🧰 Languages and Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,arduino,mysql,git,linux,vscode,php,dart,fultter,androidstudio,kotlin,kali,ubuntu,aws,flutter,navicat" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,java,cpp,arduino,mysql,git,linux,vscode,php,dart,fultter,androidstudio,kotlin,kali,ubuntu,aws,flutter,navicat,idea,pycharm,aws" />
 </p>
 
 

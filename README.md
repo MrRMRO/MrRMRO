@@ -38,14 +38,14 @@ B.Sc.(Hons) in Software Engineering — Birmingham City University
 
 ### 🏆 GitHub Profile Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MrRMRO&theme=onedark&row=1&column=7" alt="MrRMRO" />
+  <img src="https://github-profile-trophy.vercel.app/?MrRMRO=MrRMRO&theme=onedark&row=1&column=7" alt="MrRMRO" />
 </p>
 
 ---
 
 ### 💻 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MrRMRO&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?MrRMRO=MrRMRO&show_icons=true&theme=tokyonight" alt="stats" />
 </p>
 
 <p align="center">

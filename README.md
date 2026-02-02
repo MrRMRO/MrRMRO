@@ -25,7 +25,7 @@ B.Sc.(Hons) in Software Engineering — Birmingham City University
 `Java`, `C++`,`Java Script`, `Python`, `Dart`, `React`, `ESP32`
 
 ### 📫 How to reach me
-**rmro.wj@gmail.com**
+**rmro.wj@gmail.com** <br>
 **https://rmro.infinityfree.me/**
 
 ### 🧰 Languages and Tools
